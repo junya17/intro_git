@@ -1,3 +1,4 @@
 Gitの練習
 .git at
 .git command
+.git rm
